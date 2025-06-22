@@ -67,8 +67,8 @@
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-73" value="分布式事务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-65">
           <mxGeometry x="415" y="10" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oqA-hil1IKjVbyHf-9Ec-74" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
-          <mxGeometry x="850" y="730" width="80" height="60" as="geometry" />
+        <mxCell id="oqA-hil1IKjVbyHf-9Ec-74" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="860" y="740" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
