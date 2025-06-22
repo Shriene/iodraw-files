@@ -58,8 +58,8 @@
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-69" value="LoggingService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-65">
           <mxGeometry x="395" y="25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oqA-hil1IKjVbyHf-9Ec-71" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="680" width="60" height="30" as="geometry" />
+        <mxCell id="oqA-hil1IKjVbyHf-9Ec-71" value="分布式数据库" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-65">
+          <mxGeometry x="55" y="10" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
