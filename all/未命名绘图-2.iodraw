@@ -13,8 +13,16 @@
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-2" value="" style="swimlane;startSize=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="435" y="610" width="550" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oqA-hil1IKjVbyHf-9Ec-39" value="PRC调用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oqA-hil1IKjVbyHf-9Ec-2" source="oqA-hil1IKjVbyHf-9Ec-13" target="oqA-hil1IKjVbyHf-9Ec-14">
+        <mxCell id="oqA-hil1IKjVbyHf-9Ec-39" value="PRC调用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#000000;" edge="1" parent="oqA-hil1IKjVbyHf-9Ec-2" source="oqA-hil1IKjVbyHf-9Ec-13" target="oqA-hil1IKjVbyHf-9Ec-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqA-hil1IKjVbyHf-9Ec-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oqA-hil1IKjVbyHf-9Ec-2" source="oqA-hil1IKjVbyHf-9Ec-13" target="oqA-hil1IKjVbyHf-9Ec-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqA-hil1IKjVbyHf-9Ec-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oqA-hil1IKjVbyHf-9Ec-40">
+          <mxGeometry x="0.0667" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-13" value="UserService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-2">
           <mxGeometry x="35" y="25" width="120" height="60" as="geometry" />
