@@ -49,7 +49,7 @@
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-57" value="" style="swimlane;startSize=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="430" y="810" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oqA-hil1IKjVbyHf-9Ec-58" value="nacos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-57">
+        <mxCell id="oqA-hil1IKjVbyHf-9Ec-58" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-57">
           <mxGeometry x="20" y="25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
