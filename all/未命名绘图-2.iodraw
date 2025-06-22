@@ -14,13 +14,13 @@
           <mxGeometry x="380" y="610" width="660" height="220" as="geometry" />
         </mxCell>
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-8" value="" style="swimlane;startSize=0;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-2">
-          <mxGeometry width="660" height="220" as="geometry" />
+          <mxGeometry x="30" width="630" height="210" as="geometry" />
         </mxCell>
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-9" value="API请求" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-10" value="微服务层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="580" width="60" height="30" as="geometry" />
+          <mxGeometry x="380" y="580" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
