@@ -52,7 +52,7 @@
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-67" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-65">
           <mxGeometry x="25" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oqA-hil1IKjVbyHf-9Ec-68" value="PermissionService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-65">
+        <mxCell id="oqA-hil1IKjVbyHf-9Ec-68" value="RabbitMQ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-65">
           <mxGeometry x="215" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-69" value="LoggingService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-65">
