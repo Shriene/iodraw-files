@@ -61,8 +61,8 @@
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-71" value="分布式数据库" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-65">
           <mxGeometry x="45" y="10" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oqA-hil1IKjVbyHf-9Ec-72" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="645" y="808" width="50" height="30" as="geometry" />
+        <mxCell id="oqA-hil1IKjVbyHf-9Ec-72" value="分布式消息队列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-65">
+          <mxGeometry x="220" y="10" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
