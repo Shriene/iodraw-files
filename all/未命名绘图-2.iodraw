@@ -16,9 +16,6 @@
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-13" value="UserService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-2">
           <mxGeometry x="35" y="25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oqA-hil1IKjVbyHf-9Ec-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oqA-hil1IKjVbyHf-9Ec-2" source="oqA-hil1IKjVbyHf-9Ec-14" target="oqA-hil1IKjVbyHf-9Ec-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-14" value="PermissionService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="oqA-hil1IKjVbyHf-9Ec-2">
           <mxGeometry x="215" y="25" width="120" height="60" as="geometry" />
         </mxCell>
