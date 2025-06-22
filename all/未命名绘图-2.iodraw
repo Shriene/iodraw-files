@@ -7,12 +7,6 @@
         <mxCell id="bOBIBFRPMySKyU1C8O-P-1" value="用户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="670" y="470" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bOBIBFRPMySKyU1C8O-P-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="bOBIBFRPMySKyU1C8O-P-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="650" as="sourcePoint" />
-            <mxPoint x="750" y="780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="600" width="990" height="220" as="geometry" />
         </mxCell>
