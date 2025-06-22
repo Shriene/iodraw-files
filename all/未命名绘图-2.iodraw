@@ -28,9 +28,6 @@
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-10" value="微服务层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="435" y="580" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oqA-hil1IKjVbyHf-9Ec-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oqA-hil1IKjVbyHf-9Ec-25" target="oqA-hil1IKjVbyHf-9Ec-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-25" value="" style="swimlane;startSize=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1030" y="610" width="160" height="110" as="geometry" />
         </mxCell>
