@@ -19,6 +19,9 @@
         <mxCell id="oqA-hil1IKjVbyHf-9Ec-9" value="API请求" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="560" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oqA-hil1IKjVbyHf-9Ec-10" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
